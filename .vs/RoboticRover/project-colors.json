@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "74eb4285-2122-460a-8406-6a0479ed4e71": {
+      "ProjectGuid": "74eb4285-2122-460a-8406-6a0479ed4e71",
+      "DisplayName": "RoboticRover.Data",
+      "ColorIndex": 0
+    },
+    "a3715284-a65e-4810-9a6d-a22cf1e4c7ff": {
+      "ProjectGuid": "a3715284-a65e-4810-9a6d-a22cf1e4c7ff",
+      "DisplayName": "RoboticRover.Core",
+      "ColorIndex": 1
+    },
+    "a8c1df8a-0870-4caa-9eca-ececaa6587f0": {
+      "ProjectGuid": "a8c1df8a-0870-4caa-9eca-ececaa6587f0",
+      "DisplayName": "RoboticRover.Business",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b5c311a4-34d8-4326-953f-18e4875c3dcf": {
+      "ProjectGuid": "b5c311a4-34d8-4326-953f-18e4875c3dcf",
+      "DisplayName": "RoboticRover.App",
+      "ColorIndex": 3
+    },
+    "003f39ab-908b-48e4-aab7-7610f44b4cdd": {
+      "ProjectGuid": "003f39ab-908b-48e4-aab7-7610f44b4cdd",
+      "DisplayName": "WebAPI",
+      "ColorIndex": 4
+    },
+    "29d018e7-4828-4bde-bb75-85105ca5b0a5": {
+      "ProjectGuid": "29d018e7-4828-4bde-bb75-85105ca5b0a5",
+      "DisplayName": "RoboticRover.Test",
+      "ColorIndex": 5
+    },
+    "6a907e10-4bc8-44c1-85e3-a17c1da3b5af": {
+      "ProjectGuid": "6a907e10-4bc8-44c1-85e3-a17c1da3b5af",
+      "DisplayName": "RoboticRover.Tests",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

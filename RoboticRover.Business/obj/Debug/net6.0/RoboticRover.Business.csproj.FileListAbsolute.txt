@@ -1,0 +1,17 @@
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Business\obj\Debug\net6.0\RoboticRover.Business.csproj.AssemblyReference.cache
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Business\obj\Debug\net6.0\RoboticRover.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Business\obj\Debug\net6.0\RoboticRover.Business.AssemblyInfoInputs.cache
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Business\obj\Debug\net6.0\RoboticRover.Business.AssemblyInfo.cs
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Business\obj\Debug\net6.0\RoboticRover.Business.csproj.CoreCompileInputs.cache
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Business\bin\Debug\net6.0\RoboticRover.Business.deps.json
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Business\bin\Debug\net6.0\RoboticRover.Business.dll
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Business\bin\Debug\net6.0\ref\RoboticRover.Business.dll
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Business\bin\Debug\net6.0\RoboticRover.Business.pdb
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Business\bin\Debug\net6.0\RoboticRover.Core.dll
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Business\bin\Debug\net6.0\RoboticRover.Data.dll
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Business\bin\Debug\net6.0\RoboticRover.Data.pdb
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Business\bin\Debug\net6.0\RoboticRover.Core.pdb
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Business\obj\Debug\net6.0\RoboticRover.Business.csproj.CopyComplete
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Business\obj\Debug\net6.0\RoboticRover.Business.dll
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Business\obj\Debug\net6.0\ref\RoboticRover.Business.dll
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Business\obj\Debug\net6.0\RoboticRover.Business.pdb

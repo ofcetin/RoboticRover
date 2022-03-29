@@ -1,0 +1,5 @@
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Data\obj\Debug\netcoreapp3.1\RoboticRover.Data.csproj.AssemblyReference.cache
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Data\obj\Debug\netcoreapp3.1\RoboticRover.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Data\obj\Debug\netcoreapp3.1\RoboticRover.Data.AssemblyInfoInputs.cache
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Data\obj\Debug\netcoreapp3.1\RoboticRover.Data.AssemblyInfo.cs
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Data\obj\Debug\netcoreapp3.1\RoboticRover.Data.csproj.CoreCompileInputs.cache

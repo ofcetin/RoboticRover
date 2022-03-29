@@ -1,0 +1,264 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Tests\\RoboticRover.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Business\\RoboticRover.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Business\\RoboticRover.Business.csproj",
+        "projectName": "RoboticRover.Business",
+        "projectPath": "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Business\\RoboticRover.Business.csproj",
+        "packagesPath": "C:\\Users\\omer.cetin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omer.cetin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Data\\RoboticRover.Data.csproj": {
+                "projectPath": "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Data\\RoboticRover.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Core\\RoboticRover.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Core\\RoboticRover.Core.csproj",
+        "projectName": "RoboticRover.Core",
+        "projectPath": "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Core\\RoboticRover.Core.csproj",
+        "packagesPath": "C:\\Users\\omer.cetin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omer.cetin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Data\\RoboticRover.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Data\\RoboticRover.Data.csproj",
+        "projectName": "RoboticRover.Data",
+        "projectPath": "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Data\\RoboticRover.Data.csproj",
+        "packagesPath": "C:\\Users\\omer.cetin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omer.cetin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Core\\RoboticRover.Core.csproj": {
+                "projectPath": "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Core\\RoboticRover.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Tests\\RoboticRover.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Tests\\RoboticRover.Tests.csproj",
+        "projectName": "RoboticRover.Tests",
+        "projectPath": "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Tests\\RoboticRover.Tests.csproj",
+        "packagesPath": "C:\\Users\\omer.cetin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omer.cetin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Business\\RoboticRover.Business.csproj": {
+                "projectPath": "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Business\\RoboticRover.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

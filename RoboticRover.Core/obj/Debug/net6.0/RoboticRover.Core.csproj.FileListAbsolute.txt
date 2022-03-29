@@ -1,0 +1,11 @@
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Core\bin\Debug\net6.0\RoboticRover.Core.deps.json
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Core\bin\Debug\net6.0\RoboticRover.Core.dll
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Core\bin\Debug\net6.0\ref\RoboticRover.Core.dll
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Core\bin\Debug\net6.0\RoboticRover.Core.pdb
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Core\obj\Debug\net6.0\RoboticRover.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Core\obj\Debug\net6.0\RoboticRover.Core.AssemblyInfoInputs.cache
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Core\obj\Debug\net6.0\RoboticRover.Core.AssemblyInfo.cs
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Core\obj\Debug\net6.0\RoboticRover.Core.csproj.CoreCompileInputs.cache
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Core\obj\Debug\net6.0\RoboticRover.Core.dll
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Core\obj\Debug\net6.0\ref\RoboticRover.Core.dll
+C:\Users\omer.cetin\source\repos\RoboticRover\RoboticRover.Core\obj\Debug\net6.0\RoboticRover.Core.pdb

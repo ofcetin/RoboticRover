@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4G8rd/7H1VF6lCBBFYCk9+WbAaALEq2X5CDCpnd+2X6+ksDUJMbvtpy5Px0eDPwnPZFGIECufYup4W205WCAZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omer.cetin\\source\\repos\\RoboticRover\\RoboticRover.Core\\RoboticRover.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omer.cetin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\omer.cetin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
